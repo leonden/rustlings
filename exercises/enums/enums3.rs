@@ -41,9 +41,10 @@ impl State {
     }
 
     fn process(&mut self, message: Message) {
-        // TODO: create a match expression to process the different message variants
-        // Remember: When passing a tuple as a function argument, you'll need extra parentheses:
-        // fn function((t, u, p, l, e))
+        // TODO: create a match expression to process the different message
+        // variants
+        // Remember: When passing a tuple as a function argument, you'll need
+        // extra parentheses: fn function((t, u, p, l, e))
     }
 }
 
